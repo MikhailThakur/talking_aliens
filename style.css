@@ -1,0 +1,33 @@
+body{
+    font-family: 'Rubik Vinyl', cursive;
+    background: violet;
+}
+.header_div{
+    background: white;
+color:red;
+}
+.header_div p{
+    font-family: fantasy;
+    color: sienna;
+    letter-spacing: 2px;
+    font-size: 12px;
+font-weight: bold;
+}
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+font-size: 19px;
+background-color: honeydew;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px khaki;
+}
